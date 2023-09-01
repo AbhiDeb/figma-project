@@ -1,0 +1,51 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 33.1rem;
+}.texts-nrV {
+  align-items: center;
+  display: flex;
+  padding: 2rem 2.2rem 1.5rem 2rem;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+
+  .property-1default-parent-hyT {
+    line-height: 1.5;
+    color: #737373;
+    font-family: Poppins, 'Source Sans Pro';
+    flex-shrink: 0;
+    width: 100%;
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .property-1highlighted-pHP {
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    width: 100%;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #26242b;
+  }
+}

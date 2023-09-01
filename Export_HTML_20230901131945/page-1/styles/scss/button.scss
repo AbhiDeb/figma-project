@@ -1,0 +1,65 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 60.4rem;
+}.button-zkH {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+
+  .property-1frame-31-JFB {
+    width: 19.7rem;
+    height: 13.8rem;
+    font-size: 6.4rem;
+    font-family: Montserrat, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.1rem #000000;
+    text-align: right;
+    font-weight: 500;
+    justify-content: center;
+    cursor: pointer;
+    line-height: 1.8500000238;
+    text-transform: uppercase;
+    display: flex;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    margin-bottom: 6.3rem;
+    color: #000000;
+    align-items: center;
+    border-radius: 6rem;
+  }
+  .property-1frame-32-gmX {
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: 500;
+    border: solid 0.1rem #000000;
+    flex-shrink: 0;
+    line-height: 1.8500000238;
+    color: #000000;
+    white-space: nowrap;
+    padding: 1rem 1rem 0.9rem 26.5rem;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 6.4rem;
+    font-family: Montserrat, 'Source Sans Pro';
+    border-radius: 6rem;
+  }
+}

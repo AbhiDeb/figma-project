@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 87rem;
+}.item-1-PLu {
+  width: 100%;
+  height: 48.1rem;
+}
+.item-1-PLu .group-15-jvZ {
+  box-sizing: border-box;
+  padding: 4.1rem 6.4rem 4.1rem 7.2rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.item-1-PLu .group-15-jvZ .auto-group-j4qf-sG5 {
+  margin: 0rem 4.2rem 9.7rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-j4qf-sG5 .the-font-oQd {
+  margin-bottom: 6.9rem;
+  text-align: right;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #2a2a2a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-j4qf-sG5 .auto-group-p1kv-WK3 {
+  margin-left: 1.9rem;
+  width: 32.8rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-j4qf-sG5 .auto-group-p1kv-WK3 .aabb-SiV {
+  width: 26rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0;
+  text-align: right;
+  font-size: 9.6828rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2c2c2c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item-1-PLu .group-15-jvZ .auto-group-j4qf-sG5 .auto-group-p1kv-WK3 .poppins-regular-medium-M4m {
+  width: 32.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 14.5rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #3d3d3d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item-1-PLu .group-15-jvZ .line-1-2Ro {
+  margin: 0rem 7.5rem 0.4rem 0rem;
+  width: 0.1rem;
+  height: 23.5rem;
+  background-color: #acacac;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-gmzt-k6u {
+  margin: 13.8rem 0rem 9.7rem 0rem;
+  height: calc(100% - 23.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-gmzt-k6u .aabb-4dP {
+  margin-bottom: 1.6rem;
+  text-align: right;
+  font-size: 9.6828rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #2c2c2c;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item-1-PLu .group-15-jvZ .auto-group-gmzt-k6u .montserrat-medium-npH {
+  margin-right: 0.1rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2175;
+  color: #3d3d3d;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,123 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 87rem;
+}.item-1-PLu {
+  width: 100%;
+  height: 48.1rem;
+
+  .group-15-jvZ {
+    box-sizing: border-box;
+    padding: 4.1rem 6.4rem 4.1rem 7.2rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+
+    .auto-group-j4qf-sG5 {
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 0rem 4.2rem 9.7rem 0rem;
+      display: flex;
+
+      .the-font-oQd {
+        font-family: Lato, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-bottom: 6.9rem;
+        text-align: right;
+        font-weight: 300;
+        color: #2a2a2a;
+        font-size: 4.8rem;
+        line-height: 1.2;
+        white-space: nowrap;
+      }
+      .auto-group-p1kv-WK3 {
+        margin-left: 1.9rem;
+        width: 32.8rem;
+        height: 17.5rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .aabb-SiV {
+          left: 3.4rem;
+          text-align: right;
+          font-weight: 500;
+          line-height: 1.5;
+          white-space: nowrap;
+          width: 26rem;
+          height: 14.6rem;
+          position: absolute;
+          top: 0;
+          font-size: 9.6828rem;
+          color: #2c2c2c;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .poppins-regular-medium-M4m {
+          width: 32.8rem;
+          height: 3rem;
+          position: absolute;
+          left: 0;
+          top: 14.5rem;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 300;
+          line-height: 1.2175;
+          color: #3d3d3d;
+          font-family: Montserrat, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+    }
+    .line-1-2Ro {
+      height: 23.5rem;
+      background-color: #acacac;
+      flex-shrink: 0;
+      margin: 0rem 7.5rem 0.4rem 0rem;
+      width: 0.1rem;
+    }
+    .auto-group-gmzt-k6u {
+      margin: 13.8rem 0rem 9.7rem 0rem;
+      height: calc(100% - 23.5rem);
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .aabb-4dP {
+        text-align: right;
+        font-size: 9.6828rem;
+        font-weight: 500;
+        line-height: 1.2175;
+        font-family: Montserrat, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-bottom: 1.6rem;
+        color: #2c2c2c;
+        white-space: nowrap;
+      }
+      .montserrat-medium-npH {
+        color: #3d3d3d;
+        font-family: Montserrat, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-right: 0.1rem;
+        text-align: right;
+        font-size: 2.4rem;
+        line-height: 1.2175;
+        font-weight: 300;
+        flex-shrink: 0;
+      }
+    }
+  }
+}
